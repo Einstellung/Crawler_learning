@@ -6,6 +6,8 @@
    urllib2
    Requests
    Regular Expression
+   Beautiful Soup
+   PyQuery
 
 
 
