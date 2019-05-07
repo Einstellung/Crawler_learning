@@ -8,6 +8,7 @@
    Regular Expression
    Beautiful Soup
    PyQuery
+   get_weather
 
 
 
